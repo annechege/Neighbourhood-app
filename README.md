@@ -5,7 +5,7 @@
 
   
 # Description  
-This is a neigbhourhood Application that contain nyumba kumi and government policing in knowing your your neighbour. In order to join a hood you must sign up then login to be a member of a hood. 
+a website that informs you on the things happening around your neighborhood
 
 ##  Live Link  
  Click [View Site](https://neighboranne.herokuapp.com/)  to visit the site
@@ -27,7 +27,7 @@ To get the project .......
   
 ##### Cloning the repository:  
  ```bash 
-https://github.com/AnneChege/Neighborhood.git
+https://github.com/annechege/Neighbourhood-app.git
 ```
 ##### Navigate into the folder and install requirements  
  ```bash 
@@ -63,16 +63,10 @@ Open the application on your browser `127.0.0.1:8000`.
 ## Technology used  
   
 * [Python3.8](https://www.python.org/)  
-* [Django 3.1.5](https://docs.djangoproject.com/en/2.2/)  
+* [Django 3.2.5](https://docs.djangoproject.com/en/2.2/)  
 * [Heroku](https://heroku.com)  
   
-    
-## Known Bugs  
-* There are no known bugs currently but pull requests are allowed incase you spot a bug  
 
-  
-
-* [![License](https://img.shields.io/packagist/l/loopline-systems/closeio-api-wrapper.svg)](https://github.com/AnneChege/Neighborhood/blob/master/LICENSE)  
 * Copyright (c) 2021 **Anne Chege**
   
   
